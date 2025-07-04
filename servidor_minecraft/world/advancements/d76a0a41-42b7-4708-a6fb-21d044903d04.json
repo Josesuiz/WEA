@@ -1254,15 +1254,15 @@
     },
     "done": true
   },
-  "ars_nouveau:wilden_tribute": {
-    "criteria": {
-      "has_wilden_tribute": "2025-06-30 03:37:31 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:apprentice_spell_book": {
     "criteria": {
       "has_apprentice_spell_book": "2025-06-30 03:26:45 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:wilden_tribute": {
+    "criteria": {
+      "has_wilden_tribute": "2025-06-30 03:37:31 +0000"
     },
     "done": true
   },
