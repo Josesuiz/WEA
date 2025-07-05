@@ -1101,11 +1101,11 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:charm_collector": {
+  "tombstone:adventure/create_strange_tablet": {
     "criteria": {
-      "charm_collector_3": "2025-07-05 00:18:54 +0000"
+      "has_strange_tablet": "2025-07-04 23:52:48 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/combine_in_inventory": {
     "criteria": {
@@ -1119,11 +1119,11 @@
     },
     "done": true
   },
-  "tombstone:adventure/create_strange_tablet": {
+  "born_in_chaos_v1:charm_collector": {
     "criteria": {
-      "has_strange_tablet": "2025-07-04 23:52:48 +0000"
+      "charm_collector_3": "2025-07-05 00:18:54 +0000"
     },
-    "done": true
+    "done": false
   },
   "DataVersion": 3465
 }
