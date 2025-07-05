@@ -1273,5 +1273,11 @@
     },
     "done": true
   },
+  "ars_nouveau:alteration_table": {
+    "criteria": {
+      "has_alteration_table": "2025-07-05 04:03:45 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
