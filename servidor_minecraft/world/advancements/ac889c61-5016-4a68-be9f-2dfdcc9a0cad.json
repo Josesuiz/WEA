@@ -1099,5 +1099,23 @@
     },
     "done": true
   },
+  "tombstone:adventure/combine_in_inventory": {
+    "criteria": {
+      "coded_trigger": "2025-07-04 23:53:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2025-07-04 23:53:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_strange_tablet": {
+    "criteria": {
+      "has_strange_tablet": "2025-07-04 23:52:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

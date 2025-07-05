@@ -2133,3 +2133,6 @@ java.lang.IndexOutOfBoundsException: Index -13 out of bounds for length 13
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23367!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23367!/:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[04Jul2025 23:52:48.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD has made the advancement [Not of Chocolate]
+[04Jul2025 23:53:01.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD has made the advancement [Quickly Applied]
+[04Jul2025 23:53:59.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD has made the advancement [Let The Magic Happen]
