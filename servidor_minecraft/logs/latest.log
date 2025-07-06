@@ -11869,3 +11869,8 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.particle.Textu
 [06Jul2025 03:34:54.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ThebrosXD> pa que lo sacas
 [06Jul2025 03:35:10.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ThebrosXD> haz regeneracion
 [06Jul2025 03:35:18.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ThebrosXD> voy a ponerle murallas
+[06Jul2025 03:48:09.282] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[06Jul2025 03:48:09.282] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[06Jul2025 03:48:09.282] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[06Jul2025 03:48:09.283] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[06Jul2025 03:48:09.283] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
