@@ -1176,5 +1176,11 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-07-07 14:12:14 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
