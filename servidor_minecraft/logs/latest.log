@@ -4227,3 +4227,11 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.particle.Textu
 [07Jul2025 14:36:53.980] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18548, l='ServerLevel[world]', x=-1224.50, y=72.00, z=50.50]
 [07Jul2025 14:36:58.699] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/17914, l='ServerLevel[world]', x=-1182.31, y=69.50, z=127.85] died, message: 'Villager was slain by Zombie Villager'
 [07Jul2025 14:38:03.644] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/17916, l='ServerLevel[world]', x=-1165.23, y=68.42, z=73.70] died, message: 'Shepherd was slain by Zombie Villager'
+[07Jul2025 14:39:00.544] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/19735, l='ServerLevel[world]', x=-1220.50, y=77.00, z=102.50]
+[07Jul2025 14:39:44.614] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id ars_nouveau:starbuncle
+[07Jul2025 14:39:52.369] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id ars_nouveau:starbuncle
+[07Jul2025 14:39:57.062] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id ars_nouveau:drygmy
+[07Jul2025 14:40:02.119] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id ars_nouveau:whirlisprig
+[07Jul2025 14:40:02.119] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id ars_nouveau:whirlisprig
+[07Jul2025 14:40:23.961] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id ars_nouveau:starbuncle
+[07Jul2025 14:40:36.229] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/21249, l='ServerLevel[world]', x=-1533.50, y=76.00, z=64.50]
