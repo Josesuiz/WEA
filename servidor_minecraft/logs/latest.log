@@ -4727,3 +4727,4 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.particle.Textu
 [07Jul2025 14:58:22.634] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
 [07Jul2025 14:58:22.634] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
 [07Jul2025 15:09:10.061] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id ars_nouveau:ritual_brazier
+[07Jul2025 15:12:52.270] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-565, y=63, z=43} BlockPos{x=-564, y=62, z=43}
