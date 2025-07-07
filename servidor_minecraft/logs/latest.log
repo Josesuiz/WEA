@@ -2992,3 +2992,5 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [07Jul2025 22:45:04.080] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
 [07Jul2025 22:48:58.891] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angelichi25 lost connection: Disconnected
 [07Jul2025 22:48:58.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 left the game
+[07Jul2025 23:01:59.491] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThebrosXD lost connection: Disconnected
+[07Jul2025 23:01:59.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD left the game

@@ -616,6 +616,7 @@
   },
   "tconstruct:world/slime_collector": {
     "criteria": {
+      "sky": "2025-07-07 22:59:56 +0000",
       "magma_cream": "2025-06-07 04:35:25 +0000",
       "earth": "2025-06-05 02:15:35 +0000"
     },
@@ -1228,13 +1229,20 @@
   },
   "create:wrench_goggles": {
     "criteria": {
-      "0": "2025-07-07 22:41:06 +0000"
+      "0": "2025-07-07 22:41:06 +0000",
+      "1": "2025-07-07 22:54:24 +0000"
     },
-    "done": false
+    "done": true
   },
   "create:mechanical_press": {
     "criteria": {
       "0": "2025-07-07 22:40:49 +0000"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-07-07 22:53:13 +0000"
     },
     "done": true
   },
