@@ -1140,18 +1140,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/enderiophage": {
-    "criteria": {
-      "killed_by": "2025-07-07 03:52:14 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/capsid": {
-    "criteria": {
-      "capsid": "2025-07-07 03:52:28 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/almost_unkillable": {
     "criteria": {
       "coded_trigger": "2025-07-07 01:56:16 +0000"
@@ -1173,6 +1161,18 @@
   "alexsmobs:alexsmobs/ender_flu": {
     "criteria": {
       "all_effects": "2025-07-07 03:52:04 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-07-07 03:52:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-07-07 03:52:28 +0000"
     },
     "done": true
   },

@@ -1196,5 +1196,11 @@
     },
     "done": true
   },
+  "soulsweapons:root": {
+    "criteria": {
+      "crafting_table": "2025-07-07 14:01:18 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
