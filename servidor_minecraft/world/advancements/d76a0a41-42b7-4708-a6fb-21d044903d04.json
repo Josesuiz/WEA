@@ -23,12 +23,6 @@
     },
     "done": true
   },
-  "ars_nouveau:root": {
-    "criteria": {
-      "ars_nouveau:worn_notebook": "2025-06-05 01:11:41 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-06-05 01:11:41 +0000"
@@ -113,6 +107,7 @@
       "minecraft:deep_ocean": "2025-06-15 22:08:19 +0000",
       "minecraft:sunflower_plains": "2025-06-05 01:11:42 +0000",
       "minecraft:birch_forest": "2025-06-21 03:30:03 +0000",
+      "minecraft:windswept_hills": "2025-07-07 02:43:44 +0000",
       "minecraft:beach": "2025-06-05 01:28:15 +0000",
       "minecraft:dark_forest": "2025-06-22 00:44:04 +0000",
       "minecraft:river": "2025-06-05 01:27:39 +0000",
@@ -201,12 +196,6 @@
       "cleaver": "2025-06-28 02:26:04 +0000"
     },
     "done": false
-  },
-  "ars_nouveau:novice_spell_book": {
-    "criteria": {
-      "has_novice_spell_book": "2025-06-05 01:16:06 +0000"
-    },
-    "done": true
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
@@ -736,12 +725,6 @@
     },
     "done": false
   },
-  "ars_nouveau:magebloom_crop": {
-    "criteria": {
-      "has_magebloom_crop": "2025-06-15 04:50:45 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2025-06-15 18:50:52 +0000"
@@ -925,12 +908,6 @@
     },
     "done": true
   },
-  "ars_nouveau:warp_scroll": {
-    "criteria": {
-      "has_warp_scroll": "2025-06-19 03:24:53 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2025-06-19 03:24:54 +0000"
@@ -1015,18 +992,6 @@
     },
     "done": true
   },
-  "ars_nouveau:imbuement_chamber": {
-    "criteria": {
-      "has_imbuement_chamber": "2025-06-20 02:52:45 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:ritual_brazier": {
-    "criteria": {
-      "has_ritual_brazier": "2025-06-20 02:57:18 +0000"
-    },
-    "done": true
-  },
   "tconstruct:smeltery/cast_collector": {
     "criteria": {
       "tough_binding": "2025-06-30 03:03:45 +0000",
@@ -1107,12 +1072,6 @@
     },
     "done": true
   },
-  "ars_nouveau:ritual_gravity": {
-    "criteria": {
-      "gravity_effect": "2025-06-22 00:32:48 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/enderiophage": {
     "criteria": {
       "killed_by": "2025-06-22 01:02:58 +0000"
@@ -1152,12 +1111,6 @@
   "tombstone:adventure/consume_soul": {
     "criteria": {
       "coded_trigger": "2025-06-22 01:54:35 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:mob_jar": {
-    "criteria": {
-      "has_mob_jar": "2025-06-22 02:36:02 +0000"
     },
     "done": true
   },
@@ -1252,33 +1205,9 @@
     },
     "done": false
   },
-  "ars_nouveau:enchanting_apparatus": {
-    "criteria": {
-      "has_enchanting_apparatus": "2025-06-30 01:13:35 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:apprentice_spell_book": {
-    "criteria": {
-      "has_apprentice_spell_book": "2025-06-30 03:26:45 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:wilden_tribute": {
-    "criteria": {
-      "has_wilden_tribute": "2025-06-30 03:37:31 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/impregnated_bone_needle": {
     "criteria": {
       "coded_trigger": "2025-07-04 23:42:26 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:alteration_table": {
-    "criteria": {
-      "has_alteration_table": "2025-07-05 04:03:45 +0000"
     },
     "done": true
   },
@@ -1315,6 +1244,66 @@
   "betterdungeons:skeleton_dungeon": {
     "criteria": {
       "in_better_skeleton_dungeon": "2025-07-06 03:24:55 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-07-07 01:45:16 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-07-07 01:45:16 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2025-07-07 01:45:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mastery_1": {
+    "criteria": {
+      "coded_trigger": "2025-07-07 01:48:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/servant_of_rest": {
+    "criteria": {
+      "coded_trigger": "2025-07-07 01:48:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_ancient_tablet": {
+    "criteria": {
+      "has_ancient_tablet": "2025-07-07 01:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-07-07 02:44:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-07-07 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "yellow": "2025-07-07 02:50:10 +0000"
+    },
+    "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-07-07 03:54:50 +0000"
     },
     "done": true
   },

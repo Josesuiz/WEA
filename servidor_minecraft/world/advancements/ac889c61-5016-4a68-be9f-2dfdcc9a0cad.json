@@ -23,12 +23,6 @@
     },
     "done": true
   },
-  "ars_nouveau:root": {
-    "criteria": {
-      "ars_nouveau:worn_notebook": "2025-06-02 01:52:56 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-06-02 01:52:56 +0000"
@@ -119,6 +113,7 @@
       "minecraft:deep_ocean": "2025-06-05 02:03:13 +0000",
       "minecraft:sunflower_plains": "2025-06-02 02:02:12 +0000",
       "minecraft:cherry_grove": "2025-06-19 03:44:30 +0000",
+      "minecraft:birch_forest": "2025-07-07 02:40:44 +0000",
       "minecraft:windswept_hills": "2025-06-12 02:02:53 +0000",
       "minecraft:beach": "2025-06-05 02:00:57 +0000",
       "minecraft:sparse_jungle": "2025-06-19 03:13:56 +0000",
@@ -351,6 +346,7 @@
       "scrubland": "2025-06-02 02:45:55 +0000",
       "highland": "2025-06-02 02:44:03 +0000",
       "jade_cliffs": "2025-06-19 03:45:35 +0000",
+      "clover_patch": "2025-07-07 02:44:02 +0000",
       "old_growth_woodland": "2025-06-12 02:20:23 +0000",
       "withered_abyss": "2025-06-15 19:37:53 +0000",
       "orchard": "2025-06-19 02:47:22 +0000",
@@ -661,12 +657,6 @@
     },
     "done": true
   },
-  "ars_nouveau:magebloom_crop": {
-    "criteria": {
-      "has_magebloom_crop": "2025-06-07 02:08:49 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/mutual_aid": {
     "criteria": {
       "coded_trigger": "2025-06-07 02:30:45 +0000"
@@ -844,7 +834,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_zombie_dungeon": "2025-06-15 21:58:42 +0000"
+      "in_better_zombie_dungeon": "2025-06-15 21:58:42 +0000",
+      "in_better_spider_dungeon": "2025-07-07 02:38:26 +0000"
     },
     "done": false
   },
@@ -1125,18 +1116,6 @@
     },
     "done": false
   },
-  "ars_nouveau:ritual_gravity": {
-    "criteria": {
-      "gravity_effect": "2025-07-05 03:33:53 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:warp_scroll": {
-    "criteria": {
-      "has_warp_scroll": "2025-07-06 01:02:06 +0000"
-    },
-    "done": true
-  },
   "mowziesmobs:suns_blessing": {
     "criteria": {
       "get_suns_blessing": "2025-07-06 02:39:16 +0000"
@@ -1146,6 +1125,54 @@
   "tombstone:adventure/talk_grave_guardian": {
     "criteria": {
       "coded_trigger": "2025-07-06 02:48:21 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-07-07 01:47:26 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2025-07-07 01:47:26 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-07-07 03:52:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-07-07 03:52:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/almost_unkillable": {
+    "criteria": {
+      "coded_trigger": "2025-07-07 01:56:16 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-07-07 02:38:26 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:root": {
+    "criteria": {
+      "crafting_table": "2025-07-07 03:25:46 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/ender_flu": {
+    "criteria": {
+      "all_effects": "2025-07-07 03:52:04 +0000"
     },
     "done": true
   },

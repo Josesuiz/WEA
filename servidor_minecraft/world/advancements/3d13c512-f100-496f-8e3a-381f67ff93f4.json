@@ -23,12 +23,6 @@
     },
     "done": true
   },
-  "ars_nouveau:root": {
-    "criteria": {
-      "ars_nouveau:worn_notebook": "2025-06-02 01:53:15 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-06-02 01:53:15 +0000"
@@ -625,12 +619,6 @@
     },
     "done": true
   },
-  "ars_nouveau:novice_spell_book": {
-    "criteria": {
-      "has_novice_spell_book": "2025-06-07 03:38:51 +0000"
-    },
-    "done": true
-  },
   "immersive_armors:recipes/misc/heavy": {
     "criteria": {
       "has_item": "2025-06-12 03:06:19 +0000"
@@ -952,12 +940,6 @@
     },
     "done": true
   },
-  "ars_nouveau:warp_scroll": {
-    "criteria": {
-      "has_warp_scroll": "2025-06-20 01:44:57 +0000"
-    },
-    "done": true
-  },
   "dungeons_arise:find_lighthouse": {
     "criteria": {
       "location0": "2025-06-20 01:57:35 +0000"
@@ -1123,12 +1105,6 @@
     },
     "done": true
   },
-  "ars_nouveau:ritual_brazier": {
-    "criteria": {
-      "has_ritual_brazier": "2025-06-28 03:28:00 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:main/eat_comfort_food": {
     "criteria": {
       "comfort": "2025-06-30 00:10:27 +0000"
@@ -1137,6 +1113,7 @@
   },
   "tconstruct:smeltery/abilities": {
     "criteria": {
+      "luck": "2025-07-07 04:24:03 +0000",
       "silky": "2025-06-30 00:22:48 +0000"
     },
     "done": false
@@ -1180,6 +1157,42 @@
   "born_in_chaos_v1:soul_eater": {
     "criteria": {
       "soul_eater_0": "2025-07-05 00:13:31 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-07-07 01:46:31 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2025-07-07 01:46:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/talk_grave_guardian": {
+    "criteria": {
+      "coded_trigger": "2025-07-07 01:56:59 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-07-07 02:07:13 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-07-07 02:36:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-07-07 02:51:21 +0000"
     },
     "done": true
   },
