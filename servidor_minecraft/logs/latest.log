@@ -2506,3 +2506,7 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [08Jul2025 15:20:53.420] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
 [08Jul2025 15:20:53.421] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
 [08Jul2025 15:20:53.421] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[08Jul2025 15:25:41.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Angelichi25> zzzz
+[08Jul2025 15:28:50.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD has made the advancement [Not Even Double-Sided]
+[08Jul2025 15:30:21.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD has reached the goal [Knowledge Wasted]
+[08Jul2025 15:31:30.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: The difficulty has been set to Hard]
