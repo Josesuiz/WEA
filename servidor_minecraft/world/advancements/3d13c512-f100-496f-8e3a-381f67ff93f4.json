@@ -1160,12 +1160,6 @@
     },
     "done": true
   },
-  "create:root": {
-    "criteria": {
-      "0": "2025-07-07 01:46:31 +0000"
-    },
-    "done": true
-  },
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2025-07-07 01:46:31 +0000"
@@ -1184,12 +1178,6 @@
     },
     "done": true
   },
-  "create:copper": {
-    "criteria": {
-      "0": "2025-07-07 02:36:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-07-07 02:51:21 +0000"
@@ -1199,6 +1187,24 @@
   "soulsweapons:root": {
     "criteria": {
       "crafting_table": "2025-07-07 14:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2025-07-08 15:53:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-07-08 15:53:30 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-07-08 16:35:46 +0000"
     },
     "done": true
   },
