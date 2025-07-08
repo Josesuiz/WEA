@@ -2510,3 +2510,14 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [08Jul2025 15:28:50.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD has made the advancement [Not Even Double-Sided]
 [08Jul2025 15:30:21.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD has reached the goal [Knowledge Wasted]
 [08Jul2025 15:31:30.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: The difficulty has been set to Hard]
+[08Jul2025 15:53:04.015] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-552, y=63, z=85} BlockPos{x=-553, y=62, z=83}
+[08Jul2025 15:53:04.064] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-552, y=63, z=85} BlockPos{x=-553, y=62, z=83}
+[08Jul2025 15:53:04.116] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-552, y=63, z=85} BlockPos{x=-553, y=62, z=83}
+[08Jul2025 15:53:04.162] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-552, y=63, z=85} BlockPos{x=-553, y=62, z=83}
+[08Jul2025 15:53:04.261] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-552, y=63, z=85} BlockPos{x=-553, y=62, z=83}
+[08Jul2025 15:53:04.320] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-554, y=63, z=85} BlockPos{x=-553, y=62, z=83}
+[08Jul2025 15:53:04.361] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-554, y=63, z=85} BlockPos{x=-553, y=62, z=83}
+[08Jul2025 15:53:04.394] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-554, y=63, z=85} BlockPos{x=-553, y=62, z=83}
+[08Jul2025 15:53:04.429] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-554, y=63, z=85} BlockPos{x=-553, y=62, z=83}
+[08Jul2025 15:53:04.480] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-554, y=63, z=85} BlockPos{x=-553, y=62, z=83}
+[08Jul2025 15:53:30.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has made the advancement [The Parrots and the Bats]
