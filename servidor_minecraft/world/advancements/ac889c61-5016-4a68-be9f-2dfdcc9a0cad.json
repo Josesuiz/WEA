@@ -1264,5 +1264,59 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2025-07-10 02:38:51 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/find_ancient_tablet": {
+    "criteria": {
+      "has_ancient_tablet": "2025-07-10 02:45:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mastery_1": {
+    "criteria": {
+      "coded_trigger": "2025-07-10 03:07:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/revive_familiar": {
+    "criteria": {
+      "coded_trigger": "2025-07-10 03:07:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/master_wololo": {
+    "criteria": {
+      "has_wololo_green": "2025-07-10 03:52:24 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/wololo": {
+    "criteria": {
+      "has_wololo_green": "2025-07-10 03:52:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/capture_soul": {
+    "criteria": {
+      "coded_trigger": "2025-07-10 03:56:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_magic_impregnation": {
+    "criteria": {
+      "coded_trigger": "2025-07-10 04:05:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-07-10 04:10:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

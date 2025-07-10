@@ -104,6 +104,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-07-10 02:26:53 +0000",
       "minecraft:deep_ocean": "2025-06-15 22:08:19 +0000",
       "minecraft:sunflower_plains": "2025-06-05 01:11:42 +0000",
       "minecraft:birch_forest": "2025-06-21 03:30:03 +0000",
@@ -114,6 +115,7 @@
       "minecraft:lukewarm_ocean": "2025-06-19 03:08:33 +0000",
       "minecraft:stony_shore": "2025-06-15 02:34:53 +0000",
       "minecraft:dripstone_caves": "2025-06-07 04:49:22 +0000",
+      "minecraft:grove": "2025-07-10 02:18:27 +0000",
       "minecraft:cold_ocean": "2025-06-15 02:10:49 +0000",
       "minecraft:forest": "2025-06-05 01:28:29 +0000",
       "minecraft:deep_cold_ocean": "2025-06-15 02:18:31 +0000",
@@ -121,6 +123,7 @@
       "minecraft:jungle": "2025-06-20 02:23:39 +0000",
       "minecraft:flower_forest": "2025-06-05 01:53:14 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-19 02:51:35 +0000",
+      "minecraft:deep_dark": "2025-07-10 03:36:12 +0000",
       "minecraft:meadow": "2025-06-05 01:30:06 +0000",
       "minecraft:savanna": "2025-06-19 03:29:25 +0000",
       "minecraft:plains": "2025-06-05 01:27:43 +0000"
@@ -183,6 +186,7 @@
   },
   "tconstruct:tools/material_master": {
     "criteria": {
+      "amethyst_bronze": "2025-07-10 03:35:57 +0000",
       "manyullyn": "2025-06-19 01:20:00 +0000",
       "slimesteel": "2025-06-20 03:20:19 +0000",
       "hepatizon": "2025-06-19 01:20:00 +0000",
@@ -199,6 +203,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2025-07-10 02:49:53 +0000",
       "honey_bottle": "2025-06-15 02:48:57 +0000",
       "sweet_berries": "2025-06-15 03:38:27 +0000",
       "cooked_beef": "2025-06-15 21:38:34 +0000",
@@ -346,6 +351,7 @@
       "entered_hay_storage": "2025-06-19 03:48:19 +0000",
       "entered_druid_circle": "2025-07-06 03:47:17 +0000",
       "entered_large_dungeon": "2025-06-19 03:49:55 +0000",
+      "entered_dungeon_variant": "2025-07-10 03:51:49 +0000",
       "entered_ruined_building": "2025-06-20 02:39:25 +0000"
     },
     "done": false
@@ -558,6 +564,7 @@
       "clover_patch": "2025-06-22 00:42:57 +0000",
       "mystic_grove": "2025-06-19 02:50:34 +0000",
       "old_growth_woodland": "2025-06-19 02:52:42 +0000",
+      "maple_woods": "2025-07-10 03:32:51 +0000",
       "crystalline_chasm": "2025-06-28 01:59:31 +0000",
       "withered_abyss": "2025-06-15 19:38:02 +0000",
       "orchard": "2025-06-19 02:45:18 +0000",
@@ -576,7 +583,8 @@
       "prairie": "2025-06-15 20:29:30 +0000",
       "grassland": "2025-06-19 03:10:12 +0000",
       "undergrowth": "2025-06-29 23:31:56 +0000",
-      "rainforest": "2025-06-19 02:56:32 +0000"
+      "rainforest": "2025-06-19 02:56:32 +0000",
+      "crag": "2025-07-10 02:20:21 +0000"
     },
     "done": false
   },
@@ -820,9 +828,10 @@
     "criteria": {
       "in_better_zombie_dungeon": "2025-06-15 21:58:42 +0000",
       "in_better_spider_dungeon": "2025-07-06 02:56:20 +0000",
+      "in_better_monster_room": "2025-07-10 03:30:16 +0000",
       "in_better_skeleton_dungeon": "2025-07-06 03:24:55 +0000"
     },
-    "done": false
+    "done": true
   },
   "mowziesmobs:suns_blessing": {
     "criteria": {
@@ -982,7 +991,8 @@
   },
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
-      "charm_collector_1": "2025-06-20 02:39:32 +0000"
+      "charm_collector_1": "2025-06-20 02:39:32 +0000",
+      "charm_collector_4": "2025-07-10 04:03:55 +0000"
     },
     "done": false
   },
@@ -1316,6 +1326,36 @@
   "tombstone:adventure/ancient_knowledge": {
     "criteria": {
       "coded_trigger": "2025-07-10 00:43:15 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-07-10 03:36:12 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-07-10 02:35:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_home": {
+    "criteria": {
+      "coded_trigger": "2025-07-10 02:36:08 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-07-10 03:30:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_preservation": {
+    "criteria": {
+      "has_magic_scroll": "2025-07-10 02:48:09 +0000"
     },
     "done": true
   },
