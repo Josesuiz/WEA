@@ -2859,3 +2859,7 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [10Jul2025 14:19:43.570] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
 [10Jul2025 14:19:43.570] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
 [10Jul2025 14:29:50.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD has reached the goal [Shake and Mix]
+[10Jul2025 14:36:56.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThebrosXD: Set the weather to clear]
+[10Jul2025 14:40:00.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD has reached the goal [My Brother]
+[10Jul2025 14:44:49.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has made the advancement [Not Even Double-Sided]
+[10Jul2025 14:45:10.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has made the advancement [Quickly Applied]
