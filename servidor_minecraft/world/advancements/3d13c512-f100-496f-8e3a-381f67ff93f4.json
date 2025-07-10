@@ -1251,5 +1251,11 @@
     },
     "done": true
   },
+  "soulsweapons:gatling_gun": {
+    "criteria": {
+      "gatling_gun": "2025-07-10 15:16:17 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
