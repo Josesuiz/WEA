@@ -1221,5 +1221,17 @@
     },
     "done": false
   },
+  "tombstone:adventure/combine_in_inventory": {
+    "criteria": {
+      "coded_trigger": "2025-07-10 14:45:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_strange_scroll": {
+    "criteria": {
+      "has_strange_scroll": "2025-07-10 14:44:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
