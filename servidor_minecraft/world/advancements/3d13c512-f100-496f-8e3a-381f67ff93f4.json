@@ -1221,9 +1221,27 @@
     },
     "done": false
   },
+  "tombstone:adventure/capture_soul": {
+    "criteria": {
+      "coded_trigger": "2025-07-10 14:53:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mastery_1": {
+    "criteria": {
+      "coded_trigger": "2025-07-10 14:58:15 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/combine_in_inventory": {
     "criteria": {
       "coded_trigger": "2025-07-10 14:45:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/revive_familiar": {
+    "criteria": {
+      "coded_trigger": "2025-07-10 14:58:15 +0000"
     },
     "done": true
   },
