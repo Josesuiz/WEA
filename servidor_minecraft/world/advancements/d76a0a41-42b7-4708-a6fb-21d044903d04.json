@@ -1307,5 +1307,17 @@
     },
     "done": true
   },
+  "tombstone:adventure/ancient_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-07-10 00:43:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/soul_magic": {
+    "criteria": {
+      "coded_trigger": "2025-07-10 00:42:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -247,7 +247,7 @@
 	"Item Equip Chance" = 0.5
 	#Adds additional x*difficulty% to base item chance
 	#Range: 0.0 ~ 1.7976931348623157E308
-	"Item Chance add" = 0.20000000298023224
+	"Item Chance add" = 0.40000000298023224
 	#Should mobs drop the armor equipped through this mod? Will not change drops if the mob obtained the armor through other means (e.g. vanilla)
 	"Should drop equipment" = false
 
@@ -255,7 +255,7 @@
 [attributes]
 	#Health will be multiplied by 1 + difficulty*0.016*x. Set to 0 to disable
 	#Range: 0.0 ~ 1.7976931348623157E308
-	"Health Increase Multiplier" = 1.0
+	"Health Increase Multiplier" = 1.6
 	#Health will be multiplied by at maximum this. Set to 0 means no limit
 	#Range: 0.0 ~ 1.7976931348623157E308
 	"Max Health Increase" = 5.0
@@ -264,10 +264,10 @@
 	"Round HP" = 0.5
 	#Damage will be multiplied by 1 + difficulty*0.008*x. Set to 0 to disable
 	#Range: 0.0 ~ 1.7976931348623157E308
-	"Damage Increase Multiplier" = 1.0
+	"Damage Increase Multiplier" = 1.3
 	#Damage will be multiplied by at maximum this. Set to 0 means no limit
 	#Range: 0.0 ~ 1.7976931348623157E308
-	"Max Damage Increase" = 3.0
+	"Max Damage Increase" = 4.0
 	#Speed will be increased by difficulty*0.0008*x. Set to 0 to disable
 	#Range: 0.0 ~ 1.7976931348623157E308
 	"Speed Increase" = 1.0
@@ -282,20 +282,20 @@
 	"Max Knockback" = 0.5
 	#Magic resistance will be increased by difficulty*0.0016*x. Set to 0 to disable
 	#Range: 0.0 ~ 1.7976931348623157E308
-	"Magic Resistance Increase" = 1.0
+	"Magic Resistance Increase" = 1.3
 	#Maximum increase in magic resistance. Magic reduction is percentage
 	#Range: 0.0 ~ 1.0
 	"Max Magic Resistance" = 0.4000000059604645
 	#Projectile Damage will be multiplied by 1 + difficulty*0.008*x. Set to 0 to disable
 	#Range: 0.0 ~ 1.7976931348623157E308
-	"Projectile Damage Increase" = 1.0
+	"Projectile Damage Increase" = 1.7
 	#Projectile damage will be multiplied by maximum of this
 	#Range: 0.0 ~ 1.7976931348623157E308
-	"Max Projectile Damage" = 2.0
+	"Max Projectile Damage" = 5.0
 	#Explosion Damage will be multiplied by 1 + difficulty*0.003*x. Set to 0 to disable
 	#Range: 0.0 ~ 1.7976931348623157E308
-	"Explosion Damage Increase" = 1.0
+	"Explosion Damage Increase" = 1.4
 	#Explosion damage will be multiplied by maximum of this
 	#Range: 0.0 ~ 1.7976931348623157E308
-	"Max Explosion Damage" = 1.75
+	"Max Explosion Damage" = 2.79
 

@@ -2673,3 +2673,11 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [10Jul2025 00:38:51.102] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
 [10Jul2025 00:38:51.102] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
 [10Jul2025 00:38:51.102] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 7 | client: 0
+[10Jul2025 00:39:54.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Angelichi25> aaa
+[10Jul2025 00:41:29.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThebrosXD moved too quickly! 4.959033822152037,7.4375,4.617370442107969
+[10Jul2025 00:42:53.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has reached the goal [Soul Magic]
+[10Jul2025 00:43:15.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro has completed the challenge [Ancient Knowledge]
+[10Jul2025 00:47:12.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrArthuro was killed by magic whilst trying to escape SrArthuro
+[10Jul2025 00:47:12.687] [Server thread/INFO] [tombstone/]: The player SrArthuro has successfully been saved
+[10Jul2025 00:47:25.755] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angelichi25 lost connection: Disconnected
+[10Jul2025 00:47:25.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 left the game
