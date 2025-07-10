@@ -1266,6 +1266,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2025-07-10 14:28:50 +0000",
+      "minecraft:sheep": "2025-07-10 14:29:15 +0000",
       "minecraft:chicken": "2025-07-10 02:38:51 +0000"
     },
     "done": false
@@ -1315,6 +1317,12 @@
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourishment": "2025-07-10 04:10:28 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:shakeand_mix": {
+    "criteria": {
+      "shakeand_mix_0": "2025-07-10 14:29:50 +0000"
     },
     "done": true
   },
