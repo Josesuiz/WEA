@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-08-13 03:12:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-08-13 02:59:26 +0000"
@@ -161,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-08-13 03:12:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-13 02:47:43 +0000"
@@ -288,6 +300,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-08-13 03:12:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-08-13 02:58:02 +0000"
@@ -359,7 +377,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-08-13 03:02:27 +0000",
-      "cooked_mutton": "2025-08-13 03:09:30 +0000"
+      "cooked_mutton": "2025-08-13 03:09:30 +0000",
+      "sweet_berries": "2025-08-13 03:13:25 +0000"
     },
     "done": false
   },
@@ -396,6 +415,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-08-13 03:07:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-08-13 03:15:30 +0000"
     },
     "done": true
   },

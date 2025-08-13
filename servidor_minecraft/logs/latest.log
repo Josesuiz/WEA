@@ -46,3 +46,20 @@
 [03:07:42] [Server thread/WARN]: Angelichi25 moved too quickly! -3.9621079800911616,-6.0,-7.041700402697373
 [03:15:38] [Server thread/INFO]: ThebrosXD has made the advancement [Not Today, Thank You]
 [03:15:51] [Server thread/INFO]: SrArthuro has made the advancement [Not Today, Thank You]
+[03:19:22] [Server thread/INFO]: Angelichi25 lost connection: Disconnected
+[03:19:22] [Server thread/INFO]: Angelichi25 left the game
+[03:19:26] [Server thread/INFO]: ThebrosXD lost connection: Disconnected
+[03:19:26] [Server thread/INFO]: ThebrosXD left the game
+[03:19:32] [Server thread/INFO]: SrArthuro lost connection: Disconnected
+[03:19:32] [Server thread/INFO]: SrArthuro left the game
+[03:19:49] [Server thread/INFO]: Stopping the server
+[03:19:49] [Server thread/INFO]: Stopping server
+[03:19:49] [Server thread/INFO]: Saving players
+[03:19:49] [Server thread/INFO]: Saving worlds
+[03:19:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:19:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:19:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:19:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:19:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:19:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:19:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
