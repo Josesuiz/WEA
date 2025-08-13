@@ -1,39 +1,45 @@
-[02:25:22] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:25:25] [ServerMain/INFO]: Loaded 1407 recipes
-[02:25:25] [ServerMain/INFO]: Loaded 1520 advancements
-[02:25:25] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[02:25:25] [Server thread/INFO]: Loading properties
-[02:25:25] [Server thread/INFO]: Default game type: SURVIVAL
-[02:25:25] [Server thread/INFO]: Generating keypair
-[02:25:25] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:25:25] [Server thread/INFO]: Using epoll channel type
-[02:25:25] [Server thread/INFO]: Preparing level "world"
-[02:25:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:25:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:25:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:25:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:25:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:25:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:25:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:25:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:25:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:25:29] [Worker-Main-2/INFO]: Preparing spawn area: 10%
-[02:25:30] [Worker-Main-1/INFO]: Preparing spawn area: 73%
-[02:25:30] [Server thread/INFO]: Time elapsed: 4751 ms
-[02:25:30] [Server thread/INFO]: Done (5.041s)! For help, type "help"
-[02:26:20] [User Authenticator #1/INFO]: UUID of player Angelichi25 is 3d13c512-f100-496f-8e3a-381f67ff93f4
-[02:26:21] [Server thread/INFO]: Angelichi25[/127.18.250.247:46387] logged in with entity id 15 at (154.80363818098715, 103.0, -225.4516158242775)
-[02:26:21] [Server thread/INFO]: Angelichi25 joined the game
-[02:26:25] [User Authenticator #2/INFO]: UUID of player ThebrosXD is ac889c61-5016-4a68-be9f-2dfdcc9a0cad
-[02:26:26] [Server thread/INFO]: ThebrosXD[/127.7.14.88:58281] logged in with entity id 320 at (123.45176294159276, 121.41999998688698, -137.06857189393142)
-[02:26:26] [Server thread/INFO]: ThebrosXD joined the game
-[02:26:44] [User Authenticator #3/INFO]: UUID of player SrArthuro is d76a0a41-42b7-4708-a6fb-21d044903d04
-[02:26:45] [Server thread/INFO]: SrArthuro[/127.207.17.91:57753] logged in with entity id 463 at (59.666409226425394, 73.0, -195.1672944554171)
-[02:26:45] [Server thread/INFO]: SrArthuro joined the game
-[02:27:47] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=86, y=110, z=-255} jb{x=85, y=110, z=-255}
-[02:27:56] [Server thread/INFO]: ThebrosXD lost connection: Disconnected
-[02:27:56] [Server thread/INFO]: ThebrosXD left the game
-[02:27:56] [Server thread/WARN]: handleDisconnection() called twice
-[02:28:13] [User Authenticator #4/INFO]: UUID of player ThebrosXD is ac889c61-5016-4a68-be9f-2dfdcc9a0cad
-[02:28:14] [Server thread/INFO]: ThebrosXD[/127.7.14.88:47109] logged in with entity id 842 at (114.30000001192093, 109.0, -118.63480218053198)
-[02:28:14] [Server thread/INFO]: ThebrosXD joined the game
+[02:46:45] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:46:46] [ServerMain/INFO]: No existing world data, creating new world
+[02:46:47] [ServerMain/INFO]: Loaded 1407 recipes
+[02:46:47] [ServerMain/INFO]: Loaded 1520 advancements
+[02:46:47] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[02:46:47] [Server thread/INFO]: Loading properties
+[02:46:47] [Server thread/INFO]: Default game type: SURVIVAL
+[02:46:47] [Server thread/INFO]: Generating keypair
+[02:46:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:46:47] [Server thread/INFO]: Using epoll channel type
+[02:46:47] [Server thread/INFO]: Preparing level "world"
+[02:46:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:46:52] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[02:46:53] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[02:46:53] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[02:46:54] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[02:46:54] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[02:46:55] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[02:46:56] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[02:46:56] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[02:46:56] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[02:46:57] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[02:46:57] [Server thread/INFO]: Time elapsed: 4542 ms
+[02:46:57] [Server thread/INFO]: Done (9.559s)! For help, type "help"
+[02:47:09] [User Authenticator #1/INFO]: UUID of player SrArthuro is d76a0a41-42b7-4708-a6fb-21d044903d04
+[02:47:10] [Server thread/INFO]: SrArthuro[/127.207.17.91:46261] logged in with entity id 1 at (0.5, 101.0, -9.5)
+[02:47:10] [Server thread/INFO]: SrArthuro joined the game
+[02:47:12] [User Authenticator #2/INFO]: UUID of player Angelichi25 is 3d13c512-f100-496f-8e3a-381f67ff93f4
+[02:47:12] [Server thread/INFO]: Angelichi25[/127.18.250.247:38821] logged in with entity id 52 at (-0.5, 99.0, -7.5)
+[02:47:12] [Server thread/INFO]: Angelichi25 joined the game
+[02:47:13] [User Authenticator #3/INFO]: UUID of player ThebrosXD is ac889c61-5016-4a68-be9f-2dfdcc9a0cad
+[02:47:14] [Server thread/INFO]: ThebrosXD[/127.7.14.88:55085] logged in with entity id 87 at (1.5, 101.0, 2.5)
+[02:47:14] [Server thread/INFO]: ThebrosXD joined the game
+[02:48:20] [Server thread/INFO]: SrArthuro has made the advancement [Stone Age]
+[02:49:50] [Server thread/INFO]: SrArthuro has made the advancement [Getting an Upgrade]
+[02:50:11] [Server thread/INFO]: ThebrosXD has made the advancement [Stone Age]
+[02:50:38] [Server thread/INFO]: ThebrosXD has made the advancement [Getting an Upgrade]
+[02:53:19] [Server thread/INFO]: Angelichi25 has made the advancement [Stone Age]
+[02:55:05] [Server thread/INFO]: Angelichi25 has made the advancement [Getting an Upgrade]
+[02:59:58] [Server thread/INFO]: SrArthuro has made the advancement [Sweet Dreams]
+[03:00:00] [Server thread/INFO]: ThebrosXD has made the advancement [Sweet Dreams]
+[03:00:42] [Server thread/INFO]: Angelichi25 has made the advancement [Monster Hunter]
+[03:00:54] [Server thread/INFO]: Angelichi25 has made the advancement [Sweet Dreams]
+[03:04:50] [Server thread/INFO]: ThebrosXD has made the advancement [Monster Hunter]
+[03:05:23] [Server thread/INFO]: SrArthuro has made the advancement [Acquire Hardware]
