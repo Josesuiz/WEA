@@ -340,6 +340,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-08-15 03:57:50 +0000",
+      "minecraft:enderman": "2025-08-15 03:57:22 +0000",
       "minecraft:spider": "2025-08-15 02:45:11 +0000",
       "minecraft:zombie": "2025-08-13 03:00:42 +0000",
       "minecraft:creeper": "2025-08-13 03:02:48 +0000"
@@ -702,6 +704,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-15 03:59:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-15 02:18:33 +0000"
@@ -717,6 +725,12 @@
   "minecraft:recipes/misc/leaf_litter": {
     "criteria": {
       "has_leaves": "2025-08-15 03:20:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-08-15 03:57:43 +0000"
     },
     "done": true
   },
@@ -765,6 +779,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-08-15 02:53:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-15 03:59:49 +0000"
     },
     "done": true
   },
@@ -912,6 +932,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-08-15 03:59:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-15 02:18:33 +0000"
@@ -1035,6 +1061,12 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-08-15 02:45:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-08-15 04:00:00 +0000"
     },
     "done": true
   },

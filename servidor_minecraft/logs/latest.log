@@ -129,3 +129,27 @@
 [03:56:51] [Server thread/INFO]: <ThebrosXD> q pajo
 [03:57:06] [Server thread/INFO]: <SrArthuro> parece
 [03:57:09] [Server thread/INFO]: <ThebrosXD> se arreglo o se se arreglo tu problema
+[03:57:43] [Server thread/INFO]: Angelichi25 has made the advancement [Not Today, Thank You]
+[03:59:37] [Server thread/INFO]: <SrArthuro> zzz
+[04:00:00] [Server thread/INFO]: Angelichi25 has made the advancement [Enchanter]
+[04:03:25] [Server thread/INFO]: Angelichi25 lost connection: Timed out
+[04:03:25] [Server thread/INFO]: Angelichi25 left the game
+[04:03:56] [Server thread/INFO]: SrArthuro lost connection: Disconnected
+[04:03:56] [Server thread/INFO]: SrArthuro left the game
+[04:04:02] [Server thread/INFO]: ThebrosXD lost connection: Disconnected
+[04:04:02] [Server thread/INFO]: ThebrosXD left the game
+[04:04:06] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[04:04:06] [Server thread/INFO]: stop}<--[HERE]
+[04:04:06] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[04:04:06] [Server thread/INFO]: <--[HERE]
+[04:04:08] [Server thread/INFO]: Stopping the server
+[04:04:08] [Server thread/INFO]: Stopping server
+[04:04:08] [Server thread/INFO]: Saving players
+[04:04:08] [Server thread/INFO]: Saving worlds
+[04:04:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:04:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:04:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:04:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:04:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:04:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:04:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
