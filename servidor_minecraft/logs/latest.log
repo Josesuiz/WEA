@@ -1,65 +1,75 @@
-[02:46:45] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:46:46] [ServerMain/INFO]: No existing world data, creating new world
-[02:46:47] [ServerMain/INFO]: Loaded 1407 recipes
-[02:46:47] [ServerMain/INFO]: Loaded 1520 advancements
-[02:46:47] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[02:46:47] [Server thread/INFO]: Loading properties
-[02:46:47] [Server thread/INFO]: Default game type: SURVIVAL
-[02:46:47] [Server thread/INFO]: Generating keypair
-[02:46:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:46:47] [Server thread/INFO]: Using epoll channel type
-[02:46:47] [Server thread/INFO]: Preparing level "world"
-[02:46:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:46:52] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[02:46:53] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[02:46:53] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[02:46:54] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[02:46:54] [Worker-Main-1/INFO]: Preparing spawn area: 18%
-[02:46:55] [Worker-Main-2/INFO]: Preparing spawn area: 18%
-[02:46:56] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[02:46:56] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[02:46:56] [Worker-Main-3/INFO]: Preparing spawn area: 51%
-[02:46:57] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[02:46:57] [Server thread/INFO]: Time elapsed: 4542 ms
-[02:46:57] [Server thread/INFO]: Done (9.559s)! For help, type "help"
-[02:47:09] [User Authenticator #1/INFO]: UUID of player SrArthuro is d76a0a41-42b7-4708-a6fb-21d044903d04
-[02:47:10] [Server thread/INFO]: SrArthuro[/127.207.17.91:46261] logged in with entity id 1 at (0.5, 101.0, -9.5)
-[02:47:10] [Server thread/INFO]: SrArthuro joined the game
-[02:47:12] [User Authenticator #2/INFO]: UUID of player Angelichi25 is 3d13c512-f100-496f-8e3a-381f67ff93f4
-[02:47:12] [Server thread/INFO]: Angelichi25[/127.18.250.247:38821] logged in with entity id 52 at (-0.5, 99.0, -7.5)
-[02:47:12] [Server thread/INFO]: Angelichi25 joined the game
-[02:47:13] [User Authenticator #3/INFO]: UUID of player ThebrosXD is ac889c61-5016-4a68-be9f-2dfdcc9a0cad
-[02:47:14] [Server thread/INFO]: ThebrosXD[/127.7.14.88:55085] logged in with entity id 87 at (1.5, 101.0, 2.5)
-[02:47:14] [Server thread/INFO]: ThebrosXD joined the game
-[02:48:20] [Server thread/INFO]: SrArthuro has made the advancement [Stone Age]
-[02:49:50] [Server thread/INFO]: SrArthuro has made the advancement [Getting an Upgrade]
-[02:50:11] [Server thread/INFO]: ThebrosXD has made the advancement [Stone Age]
-[02:50:38] [Server thread/INFO]: ThebrosXD has made the advancement [Getting an Upgrade]
-[02:53:19] [Server thread/INFO]: Angelichi25 has made the advancement [Stone Age]
-[02:55:05] [Server thread/INFO]: Angelichi25 has made the advancement [Getting an Upgrade]
-[02:59:58] [Server thread/INFO]: SrArthuro has made the advancement [Sweet Dreams]
-[03:00:00] [Server thread/INFO]: ThebrosXD has made the advancement [Sweet Dreams]
-[03:00:42] [Server thread/INFO]: Angelichi25 has made the advancement [Monster Hunter]
-[03:00:54] [Server thread/INFO]: Angelichi25 has made the advancement [Sweet Dreams]
-[03:04:50] [Server thread/INFO]: ThebrosXD has made the advancement [Monster Hunter]
-[03:05:23] [Server thread/INFO]: SrArthuro has made the advancement [Acquire Hardware]
-[03:07:42] [Server thread/WARN]: Angelichi25 moved too quickly! -3.9621079800911616,-6.0,-7.041700402697373
-[03:15:38] [Server thread/INFO]: ThebrosXD has made the advancement [Not Today, Thank You]
-[03:15:51] [Server thread/INFO]: SrArthuro has made the advancement [Not Today, Thank You]
-[03:19:22] [Server thread/INFO]: Angelichi25 lost connection: Disconnected
-[03:19:22] [Server thread/INFO]: Angelichi25 left the game
-[03:19:26] [Server thread/INFO]: ThebrosXD lost connection: Disconnected
-[03:19:26] [Server thread/INFO]: ThebrosXD left the game
-[03:19:32] [Server thread/INFO]: SrArthuro lost connection: Disconnected
-[03:19:32] [Server thread/INFO]: SrArthuro left the game
-[03:19:49] [Server thread/INFO]: Stopping the server
-[03:19:49] [Server thread/INFO]: Stopping server
-[03:19:49] [Server thread/INFO]: Saving players
-[03:19:49] [Server thread/INFO]: Saving worlds
-[03:19:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:19:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[03:19:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[03:19:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:19:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:19:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:19:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:36:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:36:20] [ServerMain/INFO]: Loaded 1407 recipes
+[01:36:20] [ServerMain/INFO]: Loaded 1520 advancements
+[01:36:20] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[01:36:20] [Server thread/INFO]: Loading properties
+[01:36:20] [Server thread/INFO]: Default game type: SURVIVAL
+[01:36:20] [Server thread/INFO]: Generating keypair
+[01:36:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:36:21] [Server thread/INFO]: Using epoll channel type
+[01:36:21] [Server thread/INFO]: Preparing level "world"
+[01:36:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:36:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:36:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:36:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:36:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:36:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:36:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:36:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:36:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:36:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:36:25] [Worker-Main-1/INFO]: Preparing spawn area: 22%
+[01:36:26] [Server thread/INFO]: Time elapsed: 4906 ms
+[01:36:26] [Server thread/INFO]: Done (5.218s)! For help, type "help"
+[01:36:37] [User Authenticator #1/INFO]: UUID of player SrArthuro is d76a0a41-42b7-4708-a6fb-21d044903d04
+[01:36:39] [Server thread/INFO]: SrArthuro[/127.207.17.91:56509] logged in with entity id 27 at (-609.3000000119209, 87.0, -304.28038669286616)
+[01:36:39] [Server thread/INFO]: SrArthuro joined the game
+[01:37:09] [User Authenticator #2/INFO]: UUID of player ThebrosXD is ac889c61-5016-4a68-be9f-2dfdcc9a0cad
+[01:37:11] [Server thread/INFO]: ThebrosXD[/127.7.14.88:46797] logged in with entity id 332 at (-614.0576084026493, 98.0, -300.7353243134587)
+[01:37:11] [Server thread/INFO]: ThebrosXD joined the game
+[01:37:37] [User Authenticator #3/INFO]: UUID of player Angelichi25 is 3d13c512-f100-496f-8e3a-381f67ff93f4
+[01:37:38] [Server thread/INFO]: Angelichi25[/127.18.250.247:48135] logged in with entity id 436 at (-617.9328250687654, 90.0, -315.69999998807907)
+[01:37:38] [Server thread/INFO]: Angelichi25 joined the game
+[01:38:58] [Server thread/INFO]: SrArthuro has made the advancement [Suit Up]
+[01:39:12] [Server thread/INFO]: ThebrosXD has made the advancement [Acquire Hardware]
+[01:41:15] [Server thread/INFO]: ThebrosXD has made the advancement [Isn't It Iron Pick]
+[01:43:06] [Server thread/INFO]: ThebrosXD has made the advancement [Best Friends Forever]
+[01:44:51] [Server thread/WARN]: Oak Boat (vehicle of ThebrosXD) moved wrongly! 0.431302344508083
+[01:44:51] [Server thread/WARN]: Oak Boat (vehicle of ThebrosXD) moved wrongly! 0.7278272050749877
+[01:44:51] [Server thread/WARN]: Oak Boat (vehicle of ThebrosXD) moved wrongly! 1.034696015228974
+[01:44:52] [Server thread/WARN]: Oak Boat (vehicle of ThebrosXD) moved wrongly! 1.3508743315824745
+[01:45:21] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-945, y=64, z=-111} jb{x=-946, y=62, z=-110}
+[01:45:45] [Server thread/WARN]: Oak Boat (vehicle of ThebrosXD) moved wrongly! 0.3768680913257896
+[01:45:45] [Server thread/WARN]: Oak Boat (vehicle of ThebrosXD) moved wrongly! 0.5128906542633018
+[01:47:41] [Server thread/WARN]: ThebrosXD moved too quickly! 5.8157733262171405,2.0013359791121417,-8.118886465959719
+[01:50:02] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1219, y=64, z=6} jb{x=-1219, y=62, z=5}
+[01:50:02] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1219, y=64, z=6} jb{x=-1219, y=62, z=5}
+[01:53:48] [Server thread/INFO]: ThebrosXD has made the advancement [Diamonds!]
+[01:54:50] [Server thread/INFO]: ThebrosXD has made the advancement [Suit Up]
+[02:00:23] [Server thread/INFO]: <SrArthuro> zzz
+[02:00:27] [Server thread/INFO]: <SrArthuro> ZZZ
+[02:00:28] [Server thread/INFO]: <Angelichi25> ZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+[02:00:33] [Server thread/INFO]: <Angelichi25> ZZZ
+[02:00:33] [Server thread/INFO]: <Angelichi25> ZZ
+[02:00:33] [Server thread/INFO]: <Angelichi25> Z
+[02:00:34] [Server thread/INFO]: <Angelichi25> Z
+[02:00:34] [Server thread/INFO]: <Angelichi25> Z
+[02:00:34] [Server thread/INFO]: <Angelichi25> Z
+[02:00:34] [Server thread/INFO]: <Angelichi25> Z
+[02:00:34] [Server thread/INFO]: <Angelichi25> Z
+[02:00:34] [Server thread/INFO]: <Angelichi25> Z
+[02:00:34] [Server thread/INFO]: <Angelichi25> Z
+[02:00:35] [Server thread/INFO]: <Angelichi25> Z
+[02:00:35] [Server thread/INFO]: <Angelichi25> Z
+[02:00:35] [Server thread/INFO]: Angelichi25 lost connection: Kicked for spamming
+[02:00:35] [Server thread/INFO]: Angelichi25 left the game
+[02:00:35] [Server thread/WARN]: handleDisconnection() called twice
+[02:00:44] [User Authenticator #4/INFO]: UUID of player Angelichi25 is 3d13c512-f100-496f-8e3a-381f67ff93f4
+[02:00:45] [Server thread/INFO]: Angelichi25[/127.18.250.247:53847] logged in with entity id 12209 at (-1182.5, 70.0, -470.5)
+[02:00:45] [Server thread/INFO]: Angelichi25 joined the game
+[02:11:26] [Server thread/INFO]: <Angelichi25> ZZZ
+[02:12:31] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-552, y=110, z=-878} jb{x=-553, y=110, z=-878}
+[02:13:34] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-472, y=65, z=-949} jb{x=-470, y=63, z=-952}
+[02:13:34] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-472, y=65, z=-949} jb{x=-470, y=63, z=-952}
+[02:13:34] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-473, y=64, z=-947} jb{x=-475, y=63, z=-948}
+[02:13:44] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-479, y=63, z=-938} jb{x=-479, y=63, z=-939}
