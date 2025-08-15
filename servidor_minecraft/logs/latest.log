@@ -73,3 +73,6 @@
 [02:13:34] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-472, y=65, z=-949} jb{x=-470, y=63, z=-952}
 [02:13:34] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-473, y=64, z=-947} jb{x=-475, y=63, z=-948}
 [02:13:44] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-479, y=63, z=-938} jb{x=-479, y=63, z=-939}
+[02:17:08] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-474, y=63, z=-973} jb{x=-476, y=62, z=-975}
+[02:18:26] [Server thread/INFO]: The difficulty is Hard
+[02:22:26] [Server thread/INFO]: SrArthuro has made the advancement [A Seedy Place]
