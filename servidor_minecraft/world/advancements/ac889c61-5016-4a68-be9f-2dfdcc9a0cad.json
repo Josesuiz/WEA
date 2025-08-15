@@ -482,7 +482,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-08-13 03:16:22 +0000",
-      "minecraft:zombie": "2025-08-13 03:04:50 +0000"
+      "minecraft:spider": "2025-08-15 02:45:21 +0000",
+      "minecraft:zombie": "2025-08-13 03:04:50 +0000",
+      "minecraft:creeper": "2025-08-15 02:39:17 +0000"
     },
     "done": false
   },
@@ -876,6 +878,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-08-15 02:45:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2025-08-15 01:51:14 +0000"
@@ -1104,6 +1112,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-08-15 02:45:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-08-15 01:49:12 +0000"
@@ -1194,6 +1208,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-08-15 02:45:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-08-15 01:53:48 +0000"
@@ -1251,6 +1271,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2025-08-15 01:53:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-08-15 02:45:22 +0000"
     },
     "done": true
   },
@@ -1332,6 +1358,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-08-15 02:45:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-08-15 01:57:24 +0000"
@@ -1347,6 +1379,12 @@
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-15 02:26:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-08-15 02:38:03 +0000"
     },
     "done": true
   },
@@ -1377,6 +1415,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-08-15 01:49:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-15 02:38:03 +0000"
     },
     "done": true
   },
@@ -1464,6 +1508,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-08-15 02:45:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-08-15 01:53:48 +0000"
@@ -1482,6 +1532,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/bundle": {
+    "criteria": {
+      "has_string": "2025-08-15 02:45:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-08-15 02:26:56 +0000"
@@ -1491,6 +1547,12 @@
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_core": "2025-08-15 01:54:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_string": "2025-08-15 02:45:22 +0000"
     },
     "done": true
   },
